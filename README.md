@@ -13,3 +13,5 @@
 欢迎围绕全栈产品开发、开发者工具与 AI 编程工作流交流。
 
 **[访问 @LeventLei →](https://github.com/LeventLei)**
+
+<!-- LeventLei 的 GitHub 个人主页 -->
